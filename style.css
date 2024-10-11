@@ -11,6 +11,7 @@ footer {
 footer p{
     text-align: conter;
 font-size: 0.6rem;
-
-} 
-#container
+}
+#container{
+    display: flex;
+}
